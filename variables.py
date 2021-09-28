@@ -1,0 +1,1 @@
+WEBSITE_URL     = "https://github.com/codeguru-eng/SM-FastEdit"
