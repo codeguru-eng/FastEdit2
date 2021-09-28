@@ -1,0 +1,24 @@
+{
+      "Python": {
+            "Others": [
+                "_tkinter","tkinter"
+            ]
+      },
+      "HTML": {
+            "Others": [
+            ]
+      },
+      "CSS": {
+            "Others": [
+            ]
+      },
+      "JavaScript": {
+            "Others": [
+            ]
+      },
+      "JSON": {
+            "Values": [
+                "none"
+            ]
+      }
+}
