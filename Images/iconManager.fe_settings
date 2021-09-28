@@ -1,0 +1,13 @@
+{
+      "Icon": {
+            "Tab.CloseButton": "Images/Icons/cil-x.png",
+            "FileIcon": {
+                  "Python": "Images/Icons/iconPy.png",
+                  "HTML": "Images/Icons/iconHTML.png",
+                  "JavaScript": "Images/Icons/iconJS.png",
+                  "CSS": "Images/Icons/iconCSS.png",
+                  "JSON": "Images/Icons/iconJSON.png",
+                  "PlainText": "Images/Icons/iconText.png"
+            }
+      }
+}
